@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/praveennavanja1" target="blank"><img src="https://img.shields.io/twitter/follow/praveennavanja1?logo=twitter&style=for-the-badge" alt="praveennavanja1" /></a> </p>
 
+- 🔭 I’m currently working as an intern 
+
+- 👯 I’m looking to collaborate on Web development 
+
 - 👨‍💻 All of my projects are available at [portfolio](portfolio)
 
 - 📫 How to reach me **navanjanapraveen0@gmail.com**
