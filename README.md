@@ -1,6 +1,6 @@
 ![MasterHead](https://media.discordapp.net/attachments/836447745405485126/1140911081091514408/R_1.gif?width=1025&height=315)
 <h1 align="center">Hi 👋, I'm Praveen Navanjana</h1>
-<h3 align="center">Software Engineering Undergraduate at Informatics Institute of Technology</h3>
+<h3 align="center">Software Engineering Undergraduate at University of Westminster</h3>
 <img align="right" alt=Coading width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveennavanjana&label=Profile%20views&color=0e75b6&style=flat" alt="praveennavanjana" /> </p>
