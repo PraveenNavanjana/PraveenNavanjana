@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on Web Developing projects 
 
-- 👨‍💻 All of my projects are available at [PraveenNavanjana.github.io](PraveenNavanjana.github.io)
+- 👨‍💻 All of my projects are available at [https://praveennavanjana.github.io/](https://praveennavanjana.github.io/)
 
 - 📫 How to reach me **navanjanapraveen0@gmail.com**
 
