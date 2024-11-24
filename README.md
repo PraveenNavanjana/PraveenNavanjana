@@ -1,6 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 # 💫 About Me:
 🔭 I’m currently working on 404 2d Game Project<br><br>👯 I’m looking to collaborate on a multiplayer game dev project ;)<br><br>⚡ Fun fact When I’m not coding immersive worlds and game mechanics,<br> I’m competing in Farlight 84 or composing folk music tracks.
+
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/0/1677431973169?e=2147483647&v=beta&t=XAXpJxyem6V0COVr2qwSxPLctoigzjSXhAa4PSHczMI">
 
 ## 🌐 Socials:
