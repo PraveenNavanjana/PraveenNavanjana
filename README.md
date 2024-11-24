@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Wikz B</h1>
 <h3 align="center">A passionate Game Developer 🎮.</h3>
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/a1/71/90/a171908bc9db6576f9286f6650436334.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/a1/71/90/a171908bc9db6576f9286f6650436334.gif"><br>
 # 💫 About Me:
 
 🔭 I’m currently working on 404 2d Game Project<br><br>👯 I’m looking to collaborate on a multiplayer game dev project ;)<br><br>⚡ Fun fact When I’m not coding immersive worlds and game mechanics,<br> I’m competing in Farlight 84 or composing folk music tracks.
