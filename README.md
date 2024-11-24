@@ -1,6 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Wikz B</h1>
 <h3 align="center">A passionate Game Developer 🎮.</h3>
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 # 💫 About Me:
 🔭 I’m currently working on 404 2d Game Project<br><br>👯 I’m looking to collaborate on a multiplayer game dev project ;)<br><br>⚡ Fun fact When I’m not coding immersive worlds and game mechanics,<br> I’m competing in Farlight 84 or composing folk music tracks.
