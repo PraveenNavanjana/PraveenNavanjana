@@ -1,10 +1,11 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Wikz B</h1>
 <h3 align="center">A passionate Game Developer 🎮.</h3>
-<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/a1/71/90/a171908bc9db6576f9286f6650436334.gif">
+
 
 # 💫 About Me:
 🔭 I’m currently working on 404 2d Game Project<br><br>👯 I’m looking to collaborate on a multiplayer game dev project ;)<br><br>⚡ Fun fact When I’m not coding immersive worlds and game mechanics,<br> I’m competing in Farlight 84 or composing folk music tracks.
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a1/71/90/a171908bc9db6576f9286f6650436334.gif">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/ascendium) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61558144919930) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/wikz.b/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@wikzbandara) 
