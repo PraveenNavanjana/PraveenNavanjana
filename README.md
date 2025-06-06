@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as an intern<br><br>👯 I’m looking to collaborate on Web development projects<br><br>👨‍💻 All of my projects are available at https://praveennavanjana.github.io/<br><br>📫 How to reach me optimuslk.dev@gmail.com
+🔭 I’m currently working as an intern<br><br>👯 I’m looking to collaborate on Web development projects<br><br>👨‍💻 All of my projects are available at https://pravee.snaplycode.com/<br><br>📫 How to reach me optimuslk.dev@gmail.com
 <br><br>⚡ Fun fact: Call me Optimus.<br>
 
 
