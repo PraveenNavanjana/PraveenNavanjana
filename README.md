@@ -1,178 +1,247 @@
+<!-- Header with Animated Background -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Optimus%20%F0%9F%A4%96&fontSize=80&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&descAlign=50&descAlignY=60&animation=twinkling"/>
+</div>
+
+<!-- Animated Typing Introduction -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hello%2C+World!+I'm+Praveen+Navanjana;Transforming+Ideas+into+Digital+Reality+%F0%9F%9A%80;Building+the+Future%2C+One+Line+at+a+Time+%E2%9C%A8" alt="Typing SVG" />
+</div>
+
+<!-- Professional Animated Banner -->
+<div align="center">
+  <img width="100%" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"/>
+</div>
+
+<br/>
+
+<!-- About Me Section with Enhanced Design -->
 <div align="center">
   
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="35" height="35" /> Hey there! I'm Optimus <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=70&lines=Full+Stack+Developer+%F0%9F%9A%80;Web+Development+Enthusiast+%F0%9F%92%BB;Always+Learning+New+Technologies+%F0%9F%8C%9F;Building+Amazing+Digital+Experiences+%E2%9C%A8)](https://git.io/typing-svg)
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35"> About Me
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Student%20Medium%20Skin%20Tone.png" alt="Man Student Medium Skin Tone" width="35" height="35" /> About Me
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```yaml
-name: Praveen Navanjana
-located_in: Sri Lanka
-current_job: Intern Developer
-education: ["Software Engineering", "Computer Science"]
-company: Tech Startup
+👨‍💻 Developer Profile:
+  name: "Praveen Navanjana"
+  alias: "Optimus"
+  location: "Sri Lanka 🇱🇰"
+  role: "Full Stack Developer Intern"
+  
+🎯 Current Focus:
+  - Web Development & Full Stack Solutions
+  - Cloud Computing & DevOps
+  - Open Source Contributions
+  - Building Scalable Applications
 
-fields_of_interests: ["Web Development", "Full Stack", "UI/UX", "Cloud Computing"]
-technical_background: ["PHP", "JavaScript", "Python", "React", "Node.js"]
-currently_learning: ["Next.js", "TypeScript", "AWS", "DevOps"]
-will_learn_next: ["Machine Learning", "Blockchain", "Mobile Development"]
-
-hobbies: ["Gaming", "Tech Blogs", "Open Source", "Photography"]
+🚀 Tech Journey:
+  experience: "4+ years"
+  specialization: ["Frontend", "Backend", "Database Design"]
+  architecture: ["REST APIs", "Microservices", "Cloud Native"]
+  
+💡 Learning Path:
+  mastering: ["Next.js", "TypeScript", "AWS", "Docker"]
+  exploring: ["Machine Learning", "Blockchain", "Mobile Dev"]
+  
+🎮 Beyond Code:
+  interests: ["Gaming", "Tech Blogging", "Photography", "Strategy Games"]
+  motto: "Autobot, roll out! 🤖"
 ```
 
-- � **Currently working as:** An intern at a tech startup
-- 👯 **Looking to collaborate on:** Web development projects and open source
-- 💼 **All my projects:** [pravee.snaplycode.com](https://pravee.snaplycode.com/)
-- 📫 **Reach me at:** optimuslk.dev@gmail.com
-- ⚡ **Fun fact:** Call me Optimus - like the Transformer! 🤖
-- 🎮 **Gaming enthusiast:** Love strategic games and tech exploration
+<br clear="both"/>
 
-<br clear="both">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="30" height="30" /> Connect With Me
+<!-- Enhanced Connection Section -->
+<div align="center">
+  
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect & Collaborate
 
 <div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&animation=pulse)](https://discord.gg/DSa36rsk8X)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/praveen.navanjana.3)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mr_pravee)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pravee.snaplycode.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:optimuslk.dev@gmail.com)
-
-</div>out Me:
-🔭 I’m currently working as an intern<br><br>👯 I’m looking to collaborate on Web development projects<br><br>👨‍💻 All of my projects are available at https://pravee.snaplycode.com/<br><br>📫 How to reach me optimuslk.dev@gmail.com
-<br><br>⚡ Fun fact: Call me Optimus.<br>
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/DSa36rsk8X) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/praveen.navanjana.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_pravee) 
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> Tech Stack & Tools
-
-<div align="center">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" /> Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="25" height="25" /> Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Card File Box" width="25" height="25" /> Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Artist Palette" width="25" height="25" /> Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=FF61F6)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+  <a href="https://discord.gg/DSa36rsk8X">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&borderRadius=15" alt="Discord"/>
+  </a>
+  <a href="https://www.facebook.com/praveen.navanjana.3">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/mr_pravee">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+  </a>
+  <a href="https://pravee.snaplycode.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF5722" alt="Portfolio"/>
+  </a>
+  <a href="mailto:optimuslk.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+  </a>
+</div>
 
 </div>
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" /> GitHub Analytics
+
+<!-- Animated Tech Stack -->
+<div align="center">
+  
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"> Tech Arsenal
+
+</div>
+
+<div align="center">
+
+### 🎨 Frontend Technologies
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,figma&theme=dark" />
+
+### ⚙️ Backend & Databases  
+<img src="https://skillicons.dev/icons?i=nodejs,php,python,java,laravel,flask,mysql,mongodb,postgresql,redis&theme=dark" />
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,nginx,apache,git,github&theme=dark" />
+
+### 🛠️ Tools & IDEs
+<img src="https://skillicons.dev/icons?i=vscode,idea,photoshop,xd,postman,linux,windows,ubuntu,vim,bash&theme=dark" />
+
+</div>
+
+<!-- Animated Statistics Section -->
+<div align="center">
+  
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PraveenNavanjana&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&border_radius=15"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenNavanjana&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_radius=15&langs_count=10"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenNavanjana&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=FFFFFF&border_radius=15" alt="GitHub Streak"/>
+</div>
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PraveenNavanjana&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+</div>
+
+### 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PraveenNavanjana&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=15" alt="Contribution Graph"/>
+</div>
+
+</div>
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+<!-- Advanced Features Section -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Featured Projects
+
+<div align="center">
+  <a href="https://pravee.snaplycode.com">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PraveenNavanjana&repo=portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&border_radius=15"/>
+  </a>
+</div>
+
+</div>
+
+<!-- Interactive Elements -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Fun Zone
+
+<details>
+<summary>🎮 <b>Gaming Universe</b></summary>
+<br>
 
 <div align="center">
   
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=PraveenNavanjana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=PraveenNavanjana&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+**Battle Stations Ready!** 🚀
 
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenNavanjana&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" /> GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=PraveenNavanjana&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PraveenNavanjana&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=70a5fd&area=true&hide_border=true" alt="Contribution Graph" />
+| Platform | Status | Main Games |
+|----------|--------|------------|
+| ![Epic Games](https://img.shields.io/badge/Epic_Games-313131?style=flat-square&logo=epic-games&logoColor=white) | Active | Fortnite, Rocket League |
+| ![Riot Games](https://img.shields.io/badge/Riot_Games-D32936?style=flat-square&logo=riot-games&logoColor=white) | Active | Valorant, League of Legends |
+| ![Ubisoft](https://img.shields.io/badge/Ubisoft-0078F2?style=flat-square&logo=ubisoft&logoColor=white) | Active | R6 Siege, AC Series |
 
 </div>
-
----
-
-<div align="center">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" alt="Random Dev Quote" />
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="Star" width="25" height="25" /> Top Contributed Repositories
-<img src="https://github-contributor-stats.vercel.app/api?username=PraveenNavanjana&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe-Africa" width="25" height="25" /> Visitor Count & Profile Views
-
-<img src="https://visitcount.itsvg.in/api?id=PraveenNavanjana&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Profile Views" />
-
-[![GitHub followers](https://img.shields.io/github/followers/PraveenNavanjana?style=social&label=Follow)](https://github.com/PraveenNavanjana)
-[![GitHub stars](https://img.shields.io/github/stars/PraveenNavanjana?style=social&label=Stars)](https://github.com/PraveenNavanjana)
-
-</div>
-
----
-
-<div align="center">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Dancing%20Medium%20Skin%20Tone.png" alt="Man Dancing Medium Skin Tone" width="30" height="30" /> Fun Extras
+</details>
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="20" height="20" /> Gaming Profiles</summary>
+<summary>⚡ <b>Quick Facts</b></summary>
 <br>
 
-![Epic Games](https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epic-games&logoColor=white)
-![Riot Games](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
-![Ubisoft](https://img.shields.io/badge/Ubisoft-0078F2?style=for-the-badge&logo=ubisoft&logoColor=white)
+- 🔥 **Coding Journey:** Started in 2020, never looked back!
+- 🎯 **2025 Mission:** Launch 3 major full-stack applications
+- ☕ **Debug Fuel:** Coffee + Lo-fi beats = Perfect coding session
+- 🌱 **Growth Mindset:** Learning something new every day
+- 🎮 **Stress Relief:** Strategic gaming sessions
+- 🤖 **Inspiration:** "Freedom is the right of all sentient beings" - Optimus Prime
+- 🎨 **Creative Side:** UI/UX design enthusiast
+- 🌟 **Dream Goal:** Build tech that makes a difference
 
 </details>
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="20" height="20" /> Quick Facts About Me</summary>
+<summary>📊 <b>Coding Stats</b></summary>
 <br>
 
-- 🔥 **Coding since:** 2020
-- 🏆 **Favorite Language:** JavaScript & PHP
-- 🎯 **2024 Goal:** Build 10 full-stack projects
-- 🌱 **Currently exploring:** Next.js and TypeScript
-- 💡 **Fun Fact:** I debug with console.log() like a pro! 
-- ☕ **Fuel:** Coffee and energy drinks
-- 🎮 **Gaming:** Strategy games and FPS
-- 🌟 **Dream Project:** Building the next big social platform
-
-</details>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Medium%20Skin%20Tone.png" alt="Folded Hands Medium Skin Tone" width="25" height="25" /> Thanks for visiting!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontAlignY=65&desc=Keep%20building%20amazing%20things!&descAlignY=80&descAlign=62"/>
+<div align="center">
+  
+<!--START_SECTION:waka-->
+```text
+JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░  45.2%
+PHP          8 hrs 15 mins   ████████░░░░░░░░░░░░░  29.8%
+Python       4 hrs 20 mins   ████░░░░░░░░░░░░░░░░░  15.7%
+CSS          2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░   7.8%
+HTML         0 hrs 25 mins   ░░░░░░░░░░░░░░░░░░░░░   1.5%
+```
+<!--END_SECTION:waka-->
 
 </div>
+</details>
+
+</div>
+
+<!-- Inspirational Quote Section -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/3oriNLx3164pnmvmpy/giphy.gif" width="50"> Daily Motivation
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=Code%20is%20poetry%20written%20in%20logic&author=Anonymous%20Developer&animation=grow_out_in" alt="Quote"/>
+</div>
+
+</div>
+
+<!-- Visitor Stats -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Visitor Analytics
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=PraveenNavanjana&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Profile Views"/>
+  <br/>
+  <img src="https://img.shields.io/github/followers/PraveenNavanjana?style=social&label=Follow%20me!&color=blue"/>
+  <img src="https://img.shields.io/github/stars/PraveenNavanjana?style=social&label=Star%20my%20repos!"/>
+</div>
+
+</div>
+
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+  ### 🚀 Let's Build Something Amazing Together!
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+visiting!+%F0%9F%99%8F;Feel+free+to+explore+my+repositories;Let%E2%80%99s+connect+and+collaborate!;Autobots%2C+roll+out!+%F0%9F%A4%96" alt="Footer Typing"/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling"/>
+</div>
+
+<!-- Hidden Easter Egg -->
+<!-- 
+🤖 Congratulations! You found the hidden message! 
+If you're reading this in the source code, you're a true developer! 
+Connect with me and mention "Optimus Easter Egg" for a special surprise! 
+-->
