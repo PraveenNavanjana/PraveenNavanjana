@@ -5,15 +5,17 @@
 
 <!-- Animated Typing Introduction -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hello%2C+World!+I'm+Praveen+Navanjana;Transforming+Ideas+into+Digital+Reality+%F0%9F%9A%80;Building+the+Future%2C+One+Line+at+a+Time+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Hello%2C+World!+I'm+Praveen+Navanjana;Transforming+Ideas+into+Digital+Reality+%F0%9F%9A%80;Building+the+Future%2C+One+Line+at+a+Time+%E2%9C%A8" alt="Typing SVG" />
 </div>
+
+<br/><br/>
 
 <!-- Professional Animated Banner -->
 <div align="center">
-  <img width="100%" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"/>
+  <img width="90%" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"/>
 </div>
 
-<br/>
+<br/><br/>
 
 <!-- About Me Section with Enhanced Design -->
 <div align="center">
