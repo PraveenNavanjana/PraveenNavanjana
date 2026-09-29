@@ -1,64 +1,105 @@
-<div align="center">
+<p align="center">
+  <img src="https://i.ibb.co/Fkh1z2KF/header.jpg" width="100%" alt="Praveen Navanjana — Software Engineer and Creative Developer" />
+</p>
 
-Praveen Navanjana
-Software Engineer · Full-Stack Developer
-Building thoughtful digital products with a focus on
-clean interfaces, reliable systems, and purposeful engineering.
+<p align="center">
+  <a href="https://pravee.snaplycode.com">
+    <img src="https://img.shields.io/badge/PORTFOLIO-C9A96E?style=for-the-badge&labelColor=11151A&color=C9A96E" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:optimuslk.dev@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-C9A96E?style=for-the-badge&labelColor=11151A&color=C9A96E" alt="Email" />
+  </a>
+</p>
 
- 
- 
- 
- 
-</div>
+<br>
 
+## Profile
 
-About
-I'm a software developer from Sri Lanka focused on creating modern,
-maintainable and user-focused digital experiences.
-I enjoy working across the stack — turning ideas into polished interfaces,
-designing application logic, integrating APIs, and building systems that are
-simple to use and straightforward to maintain.
-My approach is simple:
-Understand the problem. Design with intention. Build with precision.
-Focus
-Frontend Engineering     React · Next.js · TypeScript
-Backend Development      Node.js · PHP · Python · Java
-Data & APIs              REST APIs · MySQL · PostgreSQL · MongoDB
-Infrastructure           Docker · AWS · Git · Linux
-Product Development      UI Engineering · System Design · Prototyping
-Selected Technologies
-<div align="center">
+Software engineer focused on building polished, maintainable digital products across the full stack.
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,java,php,mysql,postgres,mongodb,docker,aws,git,github&perline=8" />
+I care about the details that make software feel complete — clear interfaces, reliable application logic, thoughtful architecture, and implementation that stays understandable as a product grows.
 
-</div>
+> **Understand the problem. Design with intention. Build with precision.**
 
-Engineering Philosophy
-Good software should feel simple on the surface,
-even when the engineering behind it is not.
+<br>
 
-I care about maintainability, performance, usability and the small implementation
-details that turn functional software into a polished product.
-GitHub
-<div align="center">
+## Core Stack
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PraveenNavanjana&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=8b949e&icon_color=8b949e" />
+<table>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>React · Next.js · TypeScript · JavaScript · HTML · CSS</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Node.js · PHP · Python · Java · REST APIs</td>
+  </tr>
+  <tr>
+    <td><strong>Data</strong></td>
+    <td>MySQL · PostgreSQL · MongoDB</td>
+  </tr>
+  <tr>
+    <td><strong>Engineering</strong></td>
+    <td>Git · GitHub · Docker · AWS · Linux</td>
+  </tr>
+</table>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenNavanjana&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=8b949e&langs_count=6" />
+<br>
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,java,php,mysql,postgres,mongodb,docker,aws,git&theme=dark&perline=13" alt="Technology stack" />
+</p>
 
-Currently
-Building       Modern web applications and full-stack products
-Improving      TypeScript · Next.js · Cloud architecture
-Interested in  Product engineering · Scalable systems · Creative development
-<div align="center">
+<br>
 
-Have an idea worth building?
-Let's turn it into something real.
-Portfolio ·
-Email ·
-GitHub
+## What I Focus On
 
-<sub>Designed with restraint. Built with intent.</sub>
-</div>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>01 / Product Engineering</strong><br><br>
+      Turning ideas into usable, production-minded digital products with clear structure and purposeful execution.
+    </td>
+    <td width="33%" valign="top">
+      <strong>02 / Full-Stack Systems</strong><br><br>
+      Building the connection between interface, application logic, APIs, data, and deployment.
+    </td>
+    <td width="33%" valign="top">
+      <strong>03 / UI Engineering</strong><br><br>
+      Creating interfaces that feel refined, responsive, consistent, and intentional rather than template-driven.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## Current Direction
+
+```text
+BUILDING     Modern web applications and full-stack products
+IMPROVING    TypeScript · Next.js · Cloud architecture
+INTERESTED   Product engineering · Scalable systems · Creative development
+```
+
+<br>
+
+## Principles
+
+- Build for clarity before complexity.
+- Treat UI quality as part of engineering quality.
+- Prefer maintainable systems over impressive-looking shortcuts.
+- Keep learning, refining, and shipping.
+
+<br>
+
+---
+
+<p align="center">
+  <sub>PRAVEEN NAVANJANA · SOFTWARE ENGINEER · SRI LANKA</sub>
+</p>
+
+<p align="center">
+  <strong>Have something worth building?</strong><br>
+  <a href="mailto:optimuslk.dev@gmail.com">Let's talk.</a>
+</p>
